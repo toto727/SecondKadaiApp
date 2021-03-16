@@ -13,6 +13,7 @@
 		DC8A301B2600D23000C22E75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC8A30192600D23000C22E75 /* Main.storyboard */; };
 		DC8A301D2600D23100C22E75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC8A301C2600D23100C22E75 /* Assets.xcassets */; };
 		DC8A30202600D23100C22E75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC8A301E2600D23100C22E75 /* LaunchScreen.storyboard */; };
+		DC8A30292600D77100C22E75 /* Second ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8A30282600D77100C22E75 /* Second ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC8A301C2600D23100C22E75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC8A301F2600D23100C22E75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC8A30212600D23100C22E75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC8A30282600D77100C22E75 /* Second ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Second ViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC8A30132600D23000C22E75 /* AppDelegate.swift */,
 				DC8A30152600D23000C22E75 /* SceneDelegate.swift */,
 				DC8A30172600D23000C22E75 /* ViewController.swift */,
+				DC8A30282600D77100C22E75 /* Second ViewController.swift */,
 				DC8A30192600D23000C22E75 /* Main.storyboard */,
 				DC8A301C2600D23100C22E75 /* Assets.xcassets */,
 				DC8A301E2600D23100C22E75 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC8A30182600D23000C22E75 /* ViewController.swift in Sources */,
+				DC8A30292600D77100C22E75 /* Second ViewController.swift in Sources */,
 				DC8A30142600D23000C22E75 /* AppDelegate.swift in Sources */,
 				DC8A30162600D23000C22E75 /* SceneDelegate.swift in Sources */,
 			);
